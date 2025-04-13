@@ -943,8 +943,8 @@ form .button-area {
 }
 
 .chatbot-trigger button {
-  background-color: #ffae00; /* Example button color */
-  color: white;
+  background-color: rgb(0, 1, 43); /* Example button color */
+  color: #ffae00;
   border: none;
   padding: 8px 10px; /*  smaller padding */
   border-radius: 5px;
